@@ -1,0 +1,5 @@
+#define BLYNK_TEMPLATE_ID "DUMMY"
+#define BLYNK_TEMPLATE_NAME "aquabot"
+#define BLYNK_AUTH_TOKEN "123"
+#define WIFI_SSID "abc"
+#define WIFI_PASS "xyz"
