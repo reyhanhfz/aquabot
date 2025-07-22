@@ -1,4 +1,4 @@
-#define BLYNK_TEMPLATE_ID "DUMMY"
+#define BLYNK_TEMPLATE_ID "DUMMY_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "aquabot"
 #define BLYNK_AUTH_TOKEN "dummy_token"
 #define WIFI_SSID "dummy_ssid"
